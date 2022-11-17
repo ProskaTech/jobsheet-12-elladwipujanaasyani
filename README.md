@@ -5,3 +5,4 @@
 5. Abstract class orang memiliki 2 class yaitu AnakUmur1Tahun.java dan class manusia.java
 6. AktivitasPagi.java merupakan file project memiliki 2 class yaitu AktivitasPagiAnak.java dan AktivitasUtama.java
 7. EncapsulationBuah.java merupakan file project yang memiliki class BuahUtama.java
+8. Screenshot 12 adalah file dokumentasi hasil running project
