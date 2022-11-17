@@ -1,0 +1,3 @@
+js12inheritance.AktivitasPagi
+js12inheritance.AktivitasPagiAnak
+js12inheritance.AktivitasUtama
